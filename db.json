@@ -1,0 +1,5 @@
+{
+    {"name":"pepo","id":0,"luck":0,"speed":1,"force":1,"gradient":"linear-gradient(270deg, #1dbc9c, #85e403)"},
+    {"name":"Blugy","id":1,"luck":0,"speed":1,"force":1,"gradient":"linear-gradient(182deg, #921bb8, #16b8d6)"},
+    {"name":"osean","id":2,"luck":0,"speed":1,"force":1,"gradient":"linear-gradient(7deg, #17bbae, #169696)"}
+}
